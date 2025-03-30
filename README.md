@@ -232,21 +232,3 @@ docker run --name chatgpt-web-midjourney-proxy  -d -p 6015:3002 \
 ## License
 MIT © [Dooy](./license)
 
-## 其他
-如果觉得这个项目对您有所帮助，请帮忙点个star 或者捐助我们
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Dooy/chatgpt-web-midjourney-proxy&type=Date)](https://star-history.com/#Dooy/chatgpt-web-midjourney-proxy&Date)
-
-## 捐助
-如果我的开源项目对你有帮助，请考虑通过以下任意一种方式赞助: 
-<br> `付款备注上您的联系方式`
-<div style="display: flex; flex-wrap: wrap">
-    <div style="width:200px">
-        <img src="./docs/wxpay.jpg"  style="width:200px">
-        <div>微信捐助</div>
-    </div>
-    <div style="width:200px">
-        <img src="./docs/alipay.jpg"  style="width:200px"> 
-        <div>支付宝捐助</div>
-    </div>
-</div>
